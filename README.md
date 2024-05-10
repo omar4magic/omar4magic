@@ -2,7 +2,7 @@
 - 👀 I’m interested in java/python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me omawkhlafawy@gmail.com
+- 📫 How to reach me omar1962002@gmail.com
 
 <!---
 omar4magic/omar4magic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
